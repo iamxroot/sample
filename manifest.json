@@ -3,7 +3,7 @@
       {
         "preview": {
           "html": "https://raw.githubusercontent.com/[YOUR_USER]/[REPO]/main/evil.html",
-          "js": "https://raw.githubusercontent.com/[YOUR_USER]/[REPO]/main/evil.js",
+          "js": "https://raw.githubusercontent.com//iamxroot/sample/main/evil.js",
           "css": "https://raw.githubusercontent.com/[YOUR_USER]/[REPO]/main/evil.css"
         }
       }
